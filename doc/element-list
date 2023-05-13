@@ -1,0 +1,5 @@
+com.equipe.api
+com.equipe.api.controller
+com.equipe.api.entity
+com.equipe.api.repository
+com.equipe.api.service
